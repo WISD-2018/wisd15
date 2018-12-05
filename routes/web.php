@@ -63,5 +63,12 @@ Route::get('/ee/e2',function() {
     return view('ee.e2');
 });
 
+Route::get('/gg/g1',function() {
+    return view('gg.g1');
+});
+
+Route::get('/gg/g2',function() {
+    return view('gg.g2');
+});
 
 
