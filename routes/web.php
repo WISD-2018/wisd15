@@ -55,13 +55,13 @@ Route::get('/cc/c2',function() {
 
 });
 
-Route::get('ee/e1',function() {
-    return view('ee.e1');
+
+Route::get('/ff/f1',function(){
+    return view('ff.f1');
 });
 
-Route::get('/ee/e2',function() {
-    return view('ee.e2');
+Route::get('/cc/c2',function() {
+    return view('ff.f2');
+
 });
-
-
 

@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are now in ee.e2.
+                    You are now in ff.f1.
                 </div>
             </div>
         </div>
